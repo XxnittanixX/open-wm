@@ -1,6 +1,10 @@
 # Windows 10 Virtual Desktop Enhancer
 
+a continuation of recreating the archraft desktop in windows 11 :) i might have alot of fun  because i can add so many features!!!!!!!!!!!!!!!!!.
+
 **Warning:** I am officially no longer maintaining this project due to lack of time and interest. Thanks for using it and for all of your work towards helping me improve it. -sdias
+
+
 
 ## Introduction
 
